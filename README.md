@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArjunPathania
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me arjunpathania786f@gmail.com
 
 <!---
