@@ -1,6 +1,3 @@
-# 💫 About Me:
-<br>### About Me  <br><br>👋 Hi, I’m Arjun Pahania – a passionate **Data Scientist** and **Python Developer**.  <br>🌱 Currently honing my skills in data science, backend development, and automation.  <br>✍️ Building a **Blog Website** to share insights on data, coding, and technology.  <br><br>### Interests & Skills  <br>- 💻 **Programming**: Python (Pandas, NumPy, Matplotlib), SQL  <br>- 📊 **Data Science**: Machine Learning, Data Visualization, and Analytics  <br>- 🛠️ **Backend Development**: Django, Flask, REST APIs  <br>- 🤖 **Automation**: Scripting and workflow optimization  <br><br>### Looking to Collaborate  <br>I'm open to collaborating on:  <br>- 🚀 **Automation projects** to improve efficiency  <br>- 🔧 **Backend development** for web applications  <br>- 📈 Data science applications in real-world scenarios  <br><br>Let’s connect and build something amazing together!  <br><br>---
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arjun-pathania-6a9998157) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/subzer0engineerx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Arjun18Pathania) 
